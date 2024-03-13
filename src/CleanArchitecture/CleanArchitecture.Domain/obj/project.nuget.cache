@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ieqXu32aA7vATSf7jACGFPwQtXnc9d8ZVWMtxNy8jEv/WEXGQJrRN1S0oq1C/Hlw/UuGQlbZyn9TjrVCgeD2ZA==",
+  "success": true,
+  "projectFilePath": "D:\\UdemyFull\\ARQUITECTURA\\ArquitecturaLimpia\\CleanArquitecture\\src\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

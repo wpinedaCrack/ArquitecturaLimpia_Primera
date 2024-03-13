@@ -1,0 +1,13 @@
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.sourcelink.json

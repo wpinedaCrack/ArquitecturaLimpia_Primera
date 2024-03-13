@@ -1,0 +1,16 @@
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\bin\Debug\net7.0\CleanArchitecture.Aplication.deps.json
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\bin\Debug\net7.0\CleanArchitecture.Aplication.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\bin\Debug\net7.0\CleanArchitecture.Aplication.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.csproj.AssemblyReference.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.AssemblyInfoInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.AssemblyInfo.cs
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.csproj.CoreCompileInputs.cache
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.csproj.CopyComplete
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\refint\CleanArchitecture.Aplication.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.pdb
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\ref\CleanArchitecture.Aplication.dll
+D:\UdemyFull\ARQUITECTURA\ArquitecturaLimpia\CleanArquitecture\src\CleanArchitecture\CleanArchitecture.Aplication\obj\Debug\net7.0\CleanArchitecture.Aplication.sourcelink.json
